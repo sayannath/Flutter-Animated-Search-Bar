@@ -67,6 +67,7 @@ class _DefaultAppBarState extends State<DefaultAppBar> with SingleTickerProvider
             title: Text("Flutter App"),
             actions: <Widget>[
               GestureDetector(
+                // ignore: missing_required_param
                 child: IconButton(
         icon: Icon(
           Icons.search,
