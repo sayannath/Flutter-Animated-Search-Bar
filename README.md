@@ -1,4 +1,4 @@
-# animated_search
+# Animated Search Bar in Flutter
 
 A new Flutter project.
 
